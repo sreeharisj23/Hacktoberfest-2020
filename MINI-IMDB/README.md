@@ -1,13 +1,9 @@
-IT IS A MINI-IMDB PROJECT THAT PROVIDES INFORMATION ABOUT ANY MOVIE OR TV SERIES WHEN SEARCHED.
+IT IS A MINI-IMDB PROJECT THAT PROVIDES INFORMATION ABOUT ANY MOVIE OR TV SERIES WHEN SEARCHED. 
 
-READ THE DOCUMENTATION FIRST, THEN MOVE ON TO THE SOURCE CODE AS DOCUMENTATION WILL BRIEF YOU ABOUT THE PYTHON MODULE, DATA STRUCTURES USED AND ALSO HOW TO WORK THROUGH THIS PROGRAM.
+Peruse THE DOCUMENTATION FIRST, THEN MOVE ON TO THE SOURCE CODE AS DOCUMENTATION WILL BRIEF YOU ABOUT THE PYTHON MODULE, DATA STRUCTURES USED AND ALSO HOW TO WORK THROUGH THIS PROGRAM. 
 
-For running this code you have to download IMDbPy package from google. IMDbPY is a Python package useful to retrieve and manage the data of the IMDb movie database about movies, people,
-characters and companies.Platform-independent and written in Python 3 it can retrieve data from both the IMDb’s web server and a local copy of the whole database.
-IMDbPY package can be very easily used by programmers and developers to provide access to the IMDb’s data to their programs.
+For running this code you need to download IMDbPy bundle from google. IMDbPY is a Python bundle helpful to recover and deal with the information of the IMDb film information base about motion pictures, individuals, characters and companies.Platform-free and written in Python 3 it can recover information from both the IMDb's web worker and a nearby duplicate of the entire data set. IMDbPY bundle can be effectively utilized by software engineers and designers to give admittance to the IMDb's information to their projects. 
 
-For understanding this project you need to have a basic knowledge about python, definition of database, module, instances and lists.
+For understanding this venture you have to have a fundamental information about python, meaning of information base, module, examples and records. 
 
-While running the code it asks for a movie or tv series name. After you enter the movie or a  tv series name it returns a list of movies or tv series with its id which are related to the
-movies or tv series you entered. Since every movie or tv series has a unique id, this program asks for a id for the particular movie or tv series you want to search after you enter the id
-it reuturns plot, cast name, director of movie or writer of a tv series, rating, genre. 
+While running the code it requests a film or television arrangement name. After you enter the film or a television arrangement name it restores a rundown of motion pictures or television arrangement with its id which are identified with the films or television arrangement you entered. Since each film or television arrangement has a novel id, this program requests an id for the specific film or television arrangement you need to look after you enter the id it reuturns plot, projected name, head of film or essayist of a television arrangement, rating, classification.
