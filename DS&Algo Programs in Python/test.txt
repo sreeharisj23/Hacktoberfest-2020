@@ -1,1 +1,2 @@
-This is a test file. I like test . test is good.
+This is a test file.
+Use this file to test the programs.
