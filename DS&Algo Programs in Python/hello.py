@@ -2,11 +2,11 @@
 
 print('Hello World!')
 
-#making a print with formatting, variables and function.
+#fazendo um print com formatação, variáveis e função.
 
 def main():
-  message = input('Hello everyone : ')
+  mensagem = input('Digite a mensagem de apresentação : ')
   
-  print(f' The message entered was : {message} !')
+  print(f' A mensagem digitada foi : {mensagem} !')
 main()  
 
